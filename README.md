@@ -1,5 +1,6 @@
 # MizunagiKB
 
+## Languages
 [![Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,html,js,php,py,ts)](https://skillicons.dev)
 
 <!--
