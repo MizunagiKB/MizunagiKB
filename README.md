@@ -1,6 +1,6 @@
 # MizunagiKB
 
-[![Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,html,java,js,php,powershell,py,ts)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,html,js,php,py,ts)](https://skillicons.dev)
 
 <!--
 **MizunagiKB/MizunagiKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
